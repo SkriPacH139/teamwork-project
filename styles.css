@@ -1,1 +1,15 @@
-/* Основные стили будут добавляться в ветках */
+body {
+    background-color: lightblue;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
